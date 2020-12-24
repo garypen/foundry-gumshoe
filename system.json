@@ -49,6 +49,6 @@
   "download": "",
   "url": "https://github.com/garypen/foundry-gumshoe",
   "manifest": "https://raw.githubusercontent.com/garypen/foundry-gumshoe/master/system.json",
-  "download": "",
+  "download": "https://github.com/garypen/foundry-gumshoe/archive/v0.1.1.zip",
   "license": "LICENSE.txt"
 }
